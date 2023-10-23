@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="naruto.css">
+  <title>ICE CREAM</title>
+</head>
+<body>
+ <nav>
+
+   <div class="logo">DELIGHT</div>
+   <!-- toggle menu button -->
+   <span class="menubtn" onclick="openNav()">&#9776;</span>
+ 
+   <div class="navLinks">
+     <ul>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">About Us</a></li>
+       <li><a href="#">Menu</a></li>
+       <li><a href="#">Delivery</a></li>
+       <li><a href="#">Contact</a></li>
+       <button type="button">ORDER NOW</button>
+     </ul>
+   </div>
+ </nav>
+   <!-- responsive side navbar -->
+   <div class="sideNav" id="sidenav">
+     <a href="#" class="closeBtn" onclick="closeNav()"> &#10006;</a>
+     <a href="#">Home</a>
+     <a href="#">About</a>
+     <a href="#">Flavours</a>
+     <a href="#">Contact Us</a>
+     <a href="#"><button type="button">Login</button> </a>
+   </div>
+   
+   <!-- Header content with banner image -->
+   
+   <div class="row">
+     <div class="column1">
+       <h1>Taste the Cheesy Delight </h1>
+       <p>Feel the real taste of Italian origin pizza with exotic farm tomato and cheesy delight.</p>
+     </div>
+ </div>
+
+ 
+</body>
+</html>
