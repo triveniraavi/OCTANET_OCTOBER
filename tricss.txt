@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   body {
-    background-image: url(https://storage.googleapis.com/pai-images/f24f2bc9b5704e1894bb4a2fec92f4fb.jpeg);
+    background-image: url(https://github.com/triveniraavi/OCTANET_OCTOBER/blob/38dc4655324dc8be3d11cc6284ec7f185aa2188f/tribg.jpg);
     background-size: cover;
     background-attachment: fixed;
     color: white;
